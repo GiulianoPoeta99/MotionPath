@@ -1,6 +1,6 @@
 [submodule "database"]
 	path = database
-	url = https://github.com/GiulianoPoeta99/postgres-container.git
+	url =https://github.com/ushdeveloper/postgres-container.git
 [submodule "app"]
 	path = app
 	url = https://github.com/GiulianoPoeta99/tpi-gimnasio-app.git

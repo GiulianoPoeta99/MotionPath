@@ -29,7 +29,7 @@ docker compose up -d database
 docker compose up -d app
 ```
 
-> [!INFO]
+> [!NOTE]
 > Tuvimos problemas a la hora de iniciar sin especificar el orden de los permisos porque no estaba respetando bien el orden del compose.
 
 _Quitando la opción _-d_ se ven los logs del contenedor._
